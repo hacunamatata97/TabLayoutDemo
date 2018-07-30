@@ -8,4 +8,10 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="CharacterName">
+        <item name="android:textSize">@dimen/character_name_size</item>
+        <item name="android:padding">@dimen/item_padding</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
 </resources>

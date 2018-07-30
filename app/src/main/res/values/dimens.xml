@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tab_indicator">6dp</dimen>
+    <dimen name="item_margin">20dp</dimen>
+    <dimen name="item_padding">5dp</dimen>
+    <dimen name="character_name_size">20sp</dimen>
+</resources>
